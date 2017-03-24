@@ -1,0 +1,7 @@
+Pasos a seguir para crear un proyecto en GitHub con SourceTree
+
+1. Ejecutar SourceTree
+2. Crear una carpeta para el proyecto
+3. Crear un TXT
+4. Crear un nuevo repositorio en GitHub y crear un nuevo repositorio para enlazarlo en SourceTree
+5. En examenphp (como la he llamado) crear un commit con el archivo
